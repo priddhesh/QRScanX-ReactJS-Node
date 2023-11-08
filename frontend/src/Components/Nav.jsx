@@ -11,7 +11,7 @@ function Nav() {
   }
   return (
     <div>
-      <img src="https://yt3.ggpht.com/ytc/AKedOLR09bCpy_XTq2scU91URc0pWG0EqS_Yc_Zg-r9pBQ=s900-c-k-c0x00ffffff-no-rj" alt="logo" className='logo'/>
+      <img src="https://th.bing.com/th/id/R.c9f76fd0297759053b4d4f435711e304?rik=BknEwgWf6tXZkg&riu=http%3a%2f%2f3.bp.blogspot.com%2f-7kb6xnLNNa8%2fUp0Cww5hjlI%2fAAAAAAAABLg%2fJKwBoHkJd5E%2fs1600%2fqrmzl.fshpvssb.png&ehk=vn9JhXk1zHhM%2bbyohcHWAaGXgYnVipaVsxnyZVnVk3s%3d&risl=&pid=ImgRaw&r=0" alt="logo" className='logo'/>
       { auth ?
       <ul className='nav-ul'>
         <li><Link to="/home">Home</Link></li>
